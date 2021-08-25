@@ -142,9 +142,9 @@ async def start_yukki():
             botme = await idk.get_me()
             await idk(functions.channels.JoinChannelRequest(channel="@DARKAMANSUPPORT"))
             await idk(functions.channels.JoinChannelRequest(channel="@DARKAMANCHANNEL"))
-            await idk(functions.channels.JoinChannelRequest(channel="@DARKAMANCHANNEL"))
             await idk(functions.channels.JoinChannelRequest(channel="@DARKAMANSUPPORT"))
-            await idk(functions.channels.JoinChannelRequest(channel="@DARKAMANCHANNEL"))
+            await idk(functions.channels.JoinChannelRequest(channel="@DARKAMANCHANEEL"))
+            await idk(functions.channels.JoinChannelRequest(channel="@DARKAMANSUPPORT"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
