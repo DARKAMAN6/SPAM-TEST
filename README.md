@@ -13,7 +13,7 @@
 
   ❀❀ɪᴅs Sᴛʀɪɴɢ❀❀
 
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@darkaman5/DARK#main.py)
+[![REPL](https://repl.it/badge/github/DARKAMAN5/DARK-MULTI-SPAM-BOT)](https://replit.com/@DARKAMAN5/DARK-MULTI-SPAM-BOT)
  
   ✯✯ʙᴏᴛ Sᴛʀɪɴɢ✯✯
 
